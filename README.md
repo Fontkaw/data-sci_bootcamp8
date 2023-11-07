@@ -16,3 +16,6 @@ I learn a lot. This bootcamp has 10 sprint.
   - python
   - essential python for data analyst
   - dashboard
+
+u can find me on Linkedin:https://www.linkedin.com/in/nantiya-thongluedee-993861159/
+
